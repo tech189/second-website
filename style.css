@@ -1,0 +1,26 @@
+body {
+  background-color: #6fb94b;
+}
+
+nav{
+  text-align: center;
+  font-size: 20px;
+}
+
+nav a{
+  text-decoration: none;
+}
+
+nav a:hover{
+  background-color: #4e97c6;
+}
+.active{
+  background-color: #ff5c00;
+}
+
+nav li{
+  display: inline-block;
+  padding: 10px 50px;
+  background-color: #ec7930;
+  overflow: hidden;
+}
